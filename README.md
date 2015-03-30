@@ -12,4 +12,6 @@ It will return an error the first time you run it because it is trying to print
 a local variable. Comment out that print statement and run it again and it will print the global variable.
 
 infinite.js
+Use the d8 interpreter.
+It will print the numbers 1-1000 and then break out of the infinite loop.
 </pre>
