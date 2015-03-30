@@ -23,5 +23,9 @@ false
 true
 false
 
-
+date.js
+Use the d8 interpreter.
+date1 is the current time.
+date2 is the Pearl Harbor attack.
+These are compared and the older of the two is printed.
 </pre>
